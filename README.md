@@ -52,6 +52,7 @@ O workflow de CI/CD automatiza as seguintes ações:
 Este repositório contém:
 * O código-fonte da aplicação Python.
 * O `Dockerfile`.
-* O arquivo de configuração do pipeline (`.github/workflows/*.yml`).
+* O arquivo de configuração do pipeline (`.github/workflows/ci.yml`).
+
 
 A demonstração prática será focada na visualização da execução bem-sucedida do pipeline no GitHub Actions e na presença da imagem `v1.0.0` no Docker Hub.
